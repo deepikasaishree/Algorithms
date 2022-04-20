@@ -16,3 +16,6 @@ def quickSort(arr):
 if __name__=="__main__":
     arr=[24,21,22,32,40]
     print(quickSort(arr))
+
+
+#Complexity-O(n^2)
