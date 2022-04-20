@@ -32,4 +32,6 @@ def merge(l1,l2):
 
 arr=[9,20,1,24,7]
 print(mergeSort(arr))
-    
+
+
+#Complexity-O(nlog(n))
